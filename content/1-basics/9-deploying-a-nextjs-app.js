@@ -192,7 +192,7 @@ That's a feature of ▲ZEIT now. You only need to start your app on any port you
 
 ▲ZEIT now will detect the \`npm build\` script and build it inside it's build infrastructure.
 
-But, not every hosting providers have something like that.
+But, not every hosting provider will have something like that.
 In that case, you can build your app locally with:
 
 ~~~bash
